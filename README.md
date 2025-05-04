@@ -10,7 +10,6 @@ Welcome to my **Java Programming** repository! This repo contains the code I wro
 - **Collections Framework**: ArrayLists, HashMaps, LinkedLists, and more
 - **File Input/Output (I/O)**: Reading from and writing to files
 - **Basic Algorithms**: Sorting, Searching, etc.
-- **Basic GUI**: Simple Swing or JavaFX examples (if applicable)
 
 ## 🧑‍💻 Usage
 
@@ -19,7 +18,7 @@ To run any of the Java programs in this repo:
 1. **Clone the repo**:
 
     ```bash
-    git clone https://github.com/your-username/java-learning-journey.git
+    git clone https://github.com/schak04/java-learning-journey.git
     ```
 
 2. **Navigate into the project folder**:
