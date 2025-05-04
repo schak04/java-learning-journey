@@ -25,7 +25,7 @@ To run any of the Java programs in this repo:
 2. **Navigate into the project folder**:
 
     ```bash
-    cd java-programming
+    cd java-learning-journey
     ```
 
 3. **Compile and run a program** (example for `HelloWorld.java`):
