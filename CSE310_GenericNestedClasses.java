@@ -1,7 +1,3 @@
-/*
-
-*/
-
 public class CSE310_GenericNestedClasses<T> {
     T outerValue;
 
