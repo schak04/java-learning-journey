@@ -5,8 +5,8 @@
 // public class CSE310_HashMapsInJava {
 //     public static void main(String[] args) {
 //         HashMap<String,String> contacts = new HashMap<>();
-//         contacts.put("Sapto", "+69-6969696969");
-//         contacts.put("Sapto", "+\\/-PraiseTheSun");
+//         contacts.put("Sapto", "+91-ZZZZZZZZZZ");
+//         contacts.put("Sapto", "+91-YYYYYYYYYY");
 //         String search = "Sapto";
 //         if (contacts.containsKey(search)) {
 //             System.out.println("Found: "+search+" -> " + contacts.get(search));
@@ -24,10 +24,10 @@
 // public class CSE310_HashMapsInJava {
 //     public static void main(String[] args) {
 //         HashMap<String, String> contacts = new HashMap<>();
-//         contacts.put("Sapto", "+69-6969696969");
-//         contacts.put("Sapto", "+\\/-PraiseTheSun"); // overwrites previous value
+//         contacts.put("Sapto", "+91-ZZZZZZZZZZ");
+//         contacts.put("Sapto", "91-YYYYYYYYYY"); // overwrites previous value
 
-//         String valueToSearch = "+\\/-PraiseTheSun";
+//         String valueToSearch = "91-YYYYYYYYYY";
 //         boolean found = false;
 
 //         for (Map.Entry<String, String> entry : contacts.entrySet()) {
