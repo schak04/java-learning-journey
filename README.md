@@ -19,7 +19,7 @@ To run any of the Java programs in this repo:
 1. **Clone the repo**:
 
     ```bash
-    git clone https://github.com/your-username/java-programming.git
+    git clone https://github.com/your-username/java-learning-journey.git
     ```
 
 2. **Navigate into the project folder**:
