@@ -1,0 +1,5 @@
+.vscode
+*.class
+*.txt
+Java*.java
+.gitattributes
