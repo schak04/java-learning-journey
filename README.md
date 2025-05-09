@@ -1,6 +1,6 @@
 # Java Programming - Learning Journey
 
-Welcome to my **Java Programming** repository! This repo contains the code I wrote while learning Java for the first time.
+Welcome to my **Java Programming** repository! This repo contains the code I wrote while learning Java for the first time. It serves as a personal reference and may help others who are just starting out as well.
 
 ## 📚 Topics Covered
 
@@ -38,3 +38,6 @@ To run any of the Java programs in this repo:
 
 Each program is contained in a single `.java` file, named based on the task or concept it demonstrates.
 Files prefixed with `CSE310_` were written by me during my university Java course (CSE310). The rest were written independently at home during self-practice.
+
+## 🔄 Ongoing Progress
+This repository is a work in progress. I will continue to add more code and examples as I explore new Java concepts, projects, and challenges. Stay tuned for more updates!
