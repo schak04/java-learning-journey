@@ -45,7 +45,7 @@ class DevSetup extends OS implements CodeEditor, Compiler {
     }
 }
 
-public class DevEnvironmentSetup {
+public class MultipleInheritanceInJava {
     public static void main(String[] args) {
         DevSetup setup = new DevSetup();
         setup.bootSystem();
